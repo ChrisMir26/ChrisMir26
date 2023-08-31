@@ -1,4 +1,6 @@
-Hey! I'm Chris, a Full Stack Web Developer with a strong affinity for Front End development.
+Hey! I'm Chris
+
+I'm a Full Stack Web Developer with a strong affinity for Front End development.
 
 🎒 In the past decade, I have been backpacking around the world, immersing myself in different cultures and exploring new landscapes. During my adventures, I realized my passion for programming and made the decision to transition into a career in web development.
 
